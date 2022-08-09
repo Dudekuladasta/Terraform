@@ -11,7 +11,7 @@ sec_grp_name = "dvsvpc1-sg1"
 ami_id="ami-0cff7528ff583bf9a"
 ec2_size="t2.micro"
 ec2_name="dvs-server1"
-ec2_key="shaan-ramana-nvirg-key"
+ec2_key="dasta-nvirgina-key"
 /*s3 values*/
 bucketname="dvsbatch2-2022"
 tags = {
